@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/example_package_alex_carvalho_data/__init__.py
+src/example_package_alex_carvalho_data/example.py
+src/example_package_alex_carvalho_data.egg-info/PKG-INFO
+src/example_package_alex_carvalho_data.egg-info/SOURCES.txt
+src/example_package_alex_carvalho_data.egg-info/dependency_links.txt
+src/example_package_alex_carvalho_data.egg-info/top_level.txt

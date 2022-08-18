@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "example_package_alex_carvalho_data"
+version = "0.0.1"
+authors = [
+    { name = "Alex Carvalho", email="alex.carvalho.data@gmail.com" __}
+]
+description = "A small example package"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/alex-carvalho-data-courses/packaging_tutorial"
+"Bug Tracker" = "https://github.com/alex-carvalho-data-courses/packaging_tutorial/issues"
